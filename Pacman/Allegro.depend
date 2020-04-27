@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1475900340 source:c:\users\davidmendoza\desktop\templete allegro\allegro\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1475900247 c:\users\davidmendoza\desktop\templete allegro\allegro\inicia.h
+
+1475900352 source:c:\users\davidmendoza\desktop\templete allegro\allegro\main.cpp
+	<allegro.h>
+	"inicia.h"
+
+1475900490 source:\\psf\host\volumes\c\users\davidmendoza\desktop\allegro\main.cpp
+	<allegro.h>
+	"inicia.h"
+
+1475900490 \\psf\host\volumes\c\users\davidmendoza\desktop\allegro\inicia.h
+
+1475904089 source:c:\users\carlos\desktop\prueba\allegro\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1475904090 c:\users\carlos\desktop\prueba\allegro\inicia.h
+
+1557378923 source:c:\users\carlos\desktop\prueba\allegro\main.cpp
+	<allegro.h>
+
+1556577014 source:c:\users\carlos\desktop\prueba\allegro\main.c
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+
+1555699651 source:c:\users\carlos\desktop\prueba\allegro\juego.c
+
+1555699505 c:\users\carlos\desktop\prueba\allegro\headers.h
+	<allegro.h>
+	<stdlib.h>
+
+1558241975 source:c:\users\carlos\desktop\pacman\main.cpp
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
